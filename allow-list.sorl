@@ -1,10 +1,5 @@
 [SwitchyOmega Conditions]
-; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2020/12/23
-; Author: Pluwen
-; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
-; IP地址的
 10.*.*.*
 17.*.*.*
 100.64.*.*
@@ -27,9 +22,7 @@
 172.31.*.*
 192.168.*.*
 
-; cn域名都不走代理
 *.cn
-
 *.tanx.com
 *.0daydown.com
 *.00cdn.com
