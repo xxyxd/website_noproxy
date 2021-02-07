@@ -27,17 +27,12 @@
 172.31.*.*
 192.168.*.*
 
-; 药监局网站
-202.96.26.102
-
 ; cn域名都不走代理
 *.cn
 
 *.tanx.com
 *.0daydown.com
 *.00cdn.com
-*.1test.cn
-*.5test.cn
 *.17font.com
 *.21tb.com
 *.36kr.com
@@ -47,7 +42,6 @@
 *.58.com
 *.58pic.com
 *.91mjw.com
-*.91sst.cn
 *.126.com
 *.126.net
 *.127.net
@@ -56,7 +50,6 @@
 *.199it.com
 *.360buyimg.com
 *.360doc.com
-*.360wzb.cn
 *.616pic.com
 *.699pic.com
 *.3322.cc
@@ -101,23 +94,19 @@
 *.autonavi.com
 *.axshare.com
 *.axureux.com
-*.b2r.com.cn
 *.babybus.com
 *.baidu.com
 *.baidupcs.com
 *.baiduwp.com
-*.baiduyundns.cn
 *.baiduyundns.com
 *.baiduyundns.net
 *.baimiaoapp.com
 *.baomihua.com
 *.bbtree.com
-*.bcedns.cn
 *.bcedns.com
 *.bcedns.net
 *.bdimg.com
 *.bdstatic.com
-*.bdydns.cn
 *.bdydns.com
 *.bdydns.net
 *.beisen.com
@@ -128,7 +117,6 @@
 *.bitbucket.org
 *.bluedoc.io
 *.blueit.com
-*.blueit.org.cn
 *.bootcss.com
 *.btdx8.com
 *.btsync.org
@@ -137,21 +125,12 @@
 *.cachecn.net
 *.caiyunapp.com
 *.cc-1.com
-*.cc-cps.cn
 *.cc-cps.com
-*.cc-cps.com.cn
 *.cc-cps.mobi
 *.cc-cps.net
 *.ccbench.com
-*.ccgslb.cn
 *.ccgslb.com
-*.ccgslb.com.cn
 *.ccgslb.net
-*.ccgslb.net.cn
-*.ccindex.cn
-*.ccindex.com.cn
-*.ccmplus.cn
-*.ccmplus.com.cn
 *.ccmplus.net
 *.cctv.com
 *.cdn2cdn.net
@@ -160,16 +139,12 @@
 *.cdnetworks.net
 *.cdngc.net
 *.cdnjs.com
-*.cdnsvc.cn
 *.cdnsvc.com
-*.cdnsvc.com.cn
 *.cdnsvc.net
-*.cdnsvc.net.cn
 *.cdntip.com
 *.cdnudns.com
 *.chainnews.com
 *.chinacache.com
-*.chinacache.com.cn
 *.chinacache.net
 *.chinacache.org
 *.chinanetcenter.com
@@ -178,7 +153,6 @@
 *.chunyuanfood.com
 *.ciligod.com
 *.cli.im
-*.cloudcdn.cn
 *.cloudcdn.net
 *.clouddn.com
 *.cloudflare.com
@@ -233,8 +207,7 @@
 *.epubw.com
 *.etao.com
 *.ewei.com
-*.fastcdn.com 
-*.fastweb.com.cn
+*.fastcdn.com
 *.fastwebcdn.com
 *.fatetypo.xyz
 *.feng.com
@@ -250,9 +223,7 @@
 *.foundertype.com
 *.frdic.com
 *.freeziti.com
-*.fsspace.cn
 *.fsspace.com
-*.fsspace.com.cn
 *.fwcdn.com
 *.fwcdn.net
 *.fwdns.net
@@ -266,11 +237,8 @@
 *.googletagmanager.com
 *.gratisography.com
 *.growingio.com
-*.gslbsvc.cn
 *.gslbsvc.com
-*.gslbsvc.com.cn
 *.gslbsvc.net
-*.gslbsvc.net.cn
 *.gtimg.com
 *.guokr.com
 *.hacdn.com
@@ -365,8 +333,6 @@
 *.lvmama.com
 *.lxdns.com
 *.lxdns.net
-*.lxsvc.cn 
-*.lxsvc.cn
 *.lxsvc.net
 *.ly.com
 *.macrr.com
@@ -395,20 +361,12 @@
 *.mu6.me
 *.myapp.com
 *.myqcloud.com
-*.myxns.cn
-*.myxns.com.cn
-*.myxns.net.cn
 *.myxns.org
 *.mzstatic.com
-*.netcenter.com.cn
 *.netease.com
-*.newdefend.cn
 *.newdefend.com
-*.newdefend.com.cn
 *.newdefend.net
-*.newdefend.net.cn
 *.newdefend.org
-*.newdefend.org.cn
 *.nipic.com
 *.nobook.com
 *.nocode.com
