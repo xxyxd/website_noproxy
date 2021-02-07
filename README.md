@@ -3,6 +3,6 @@ For SwitchyOmega.
 
 url is:
 ``
-https://git.io/gfw-allow-list
+https://git.io/noneedproxy
 ``
 
