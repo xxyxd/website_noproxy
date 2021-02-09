@@ -23,6 +23,8 @@
 192.168.*.*
 
 *.cn
+*.tencent-cloud.com
+*.idqqimg.com
 *.tanx.com
 *.0daydown.com
 *.00cdn.com
